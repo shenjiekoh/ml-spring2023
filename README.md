@@ -6,8 +6,8 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 
 |#|Homework|Slide|Code|Public score|Private Score|Score|
 |-|-|-|-|-|-|-|
-|0|Colab Tutorial|[Link](HW0/Colab_Tutorial.pdf)|[Colab Tutorial](HW0/Colab_Tutorial.ipynb)|x|x|x|
-|0|Pytorch Tutorial|[Link](HW0/Pytorch_Tutorial_1_rev_1.pdf) [Link](HW0/Pytorch_Tutorial_2.pdf)|x|x|x|x|
+|0|Colab Tutorial|[Link](HW0/Colab_Tutorial.pdf)|[Colab Tutorial](HW0/Colab_Tutorial.ipynb)|X|X|X|
+|0|Pytorch Tutorial|[Link](HW0/Pytorch_Tutorial_1_rev_1.pdf) [Link](HW0/Pytorch_Tutorial_2.pdf)|X|X|X|X|
 |1|Regression|[Link](HW1/HW01.pdf)|[COVID-19 Cases Prediction](HW1/hw1.ipynb)|`0.80332`|`0.84204`| |
 |2|Classification|[Link](HW2/HW02.pdf)|[Phoneme Classification](HW2/homework2_1.ipynb)||||
 |3|CNN|[Link](HW3/HW03.pdf)|||||
