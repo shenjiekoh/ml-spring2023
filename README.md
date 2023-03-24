@@ -1,6 +1,6 @@
 # ml-spring2023
 ![cover](mlcover.png)
-This is the assignments for the Machine Learning lecture by HYLee in National Taiwan University (NTU). Each folder contains an .ipynb file, a .py file and maybe a prediction file.
+This is the assignments for the Machine Learning lecture by Hung-Yi Lee in National Taiwan University (NTU). Each folder contains an .ipynb file, a .py file and maybe a prediction file.
 
 Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 
