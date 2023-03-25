@@ -19,7 +19,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |9|Explainable AI|[Link](HW9/HW09.pdf)|||||
 |10|Attack|[Link](HW10/HW10.pdf)|||||
 |11|Adaptation|[Link](HW11/HW11.pdf)|||||
-|12|Reinforcement LearningL|[Link](HW12/HW12.pdf)|||||
+|12|Reinforcement Learning|[Link](HW12/HW12.pdf)|||||
 |13|Network Compression|[Link](HW13/HW13.pdf)|||||
 |14|Life-Long Learning|[Link](HW14/HW14.pdf)|||||
 |15|Meta Learning|[Link](HW15/HW15.pdf)|||||
