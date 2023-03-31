@@ -10,7 +10,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |0|Pytorch Tutorial|[Link](HW0/Pytorch_Tutorial_1_rev_1.pdf) [Link](HW0/Pytorch_Tutorial_2.pdf)|X|X|X|X|
 |1|Regression|[Link](HW1/HW01.pdf)|[COVID-19 Cases Prediction](HW1/hw1.ipynb)|`0.80332`|`0.84204`|`9`|
 |2|Classification|[Link](HW2/HW02.pdf)|[Phoneme Classification](HW2/hw2.ipynb)|`0.83261`|`0.83219`||
-|3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/hw3.ipynb)||||
+|3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/hw3.ipynb)|`0.85466`|||
 |4|Self-Attention|[Link](HW4/HW04.pdf)|||||
 |5|Transformer|[Link](HW5/HW05.pdf)|||||
 |6|Generative Model|[Link](HW6/HW06.pdf)|||||
