@@ -7,19 +7,12 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |#|Homework|Slide|Code|Public score|Private Score|Score|
 |-|-|:-:|-|:-:|:-:|:-:|
 |0|Colab Tutorial|[Link](HW0/Colab_Tutorial.pdf)|[Colab Tutorial](HW0/Colab_Tutorial.ipynb)|X|X|X|
-|0|Pytorch Tutorial|[Link](HW0/Pytorch_Tutorial_1_rev_1.pdf) [Link](HW0/Pytorch_Tutorial_2.pdf)|X|X|X|X|
-<<<<<<< HEAD
-|1|Regression|[Link](HW1/HW01.pdf)|[COVID-19 Cases Prediction](HW1/hw1.ipynb)|`0.80332`|`0.84204`| |
-|2|Classification|[Link](HW2/HW02.pdf)|[Phoneme Classification](HW2/hw2.ipynb)|`0.83261`|`0.83219`||
-|3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/hw3.ipynb)||||
-=======
 |1|Regression|[Link](HW1/HW01.pdf)|[COVID-19 Cases Prediction](HW1/hw1.ipynb)|`0.80332`|`0.84204`|`9`|
 |2|Classification|[Link](HW2/HW02.pdf)|[Phoneme Classification](HW2/hw2.ipynb)|`0.83261`|`0.83219`||
-|3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/hw3.ipynb)|`0.85466`|||
->>>>>>> 51f8d2f71edacb58739bc454bf83906587d9dd6f
-|4|Self-Attention|[Link](HW4/HW04.pdf)|||||
-|5|Transformer|[Link](HW5/HW05.pdf)|||||
-|6|Generative Model|[Link](HW6/HW06.pdf)|||||
+|3|CNN|[Link](HW3/HW03.pdf)|[Image Classification](HW3/hw3.ipynb)|`0.85466`|`0.85866`||
+|4|Self-Attention|[Link](HW4/HW04.pdf)|[Speaker Identification](HW4/hw4.ipynb)|`0.96050`|`0.96400`||
+|5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5/hw5.ipynb)|`30.28`|`29.69`||
+|6|Generative Model|[Link](HW6/HW06.pdf)|[Anime Face Generation Diffusion Model](HW6/hw6.ipynb)|`0.715 & 8103.67`|||
 |7|BERT|[Link](HW7/HW07.pdf)|||||
 |8|Auto-Encoder|[Link](HW8/HW08.pdf)|||||
 |9|Explainable AI|[Link](HW9/HW09.pdf)|||||
