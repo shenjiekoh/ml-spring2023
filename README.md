@@ -13,9 +13,9 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |4|Self-Attention|[Link](HW4/HW04.pdf)|[Speaker Identification](HW4/hw4.ipynb)|`0.96050`|`0.96400`||
 |5|Transformer|[Link](HW5/HW05.pdf)|[Machine Translation](HW5/hw5.ipynb)|`30.28`|`29.69`||
 |6|Generative Model|[Link](HW6/HW06.pdf)|[Anime Face Generation Diffusion Model](HW6/hw6.ipynb)|`0.715,8103.67`|X||
-|7|BERT|[Link](HW7/HW07.pdf)|||||
-|8|Auto-Encoder|[Link](HW8/HW08.pdf)|||||
-|9|Explainable AI|[Link](HW9/HW09.pdf)|||||
+|7|BERT|[Link](HW7/HW07.pdf)|[BERT-Question Answering](HW7/hw7.ipynb)|`0.84279`|`0.84506`||
+|8|Auto-Encoder|[Link](HW8/HW08.pdf)|[Anomaly Detection](HW8/hw8.ipynb)||||
+|9|Explainable AI|[Link](HW9/HW09.pdf)|[Explainable AI](HW9/hw9.ipynb)|X|X||
 |10|Attack|[Link](HW10/HW10.pdf)|||||
 |11|Adaptation|[Link](HW11/HW11.pdf)|||||
 |12|Reinforcement Learning|[Link](HW12/HW12.pdf)|||||
