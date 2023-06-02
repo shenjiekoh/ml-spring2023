@@ -10,7 +10,7 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |1|Regression|[Link](HW01/HW01.pdf)|[COVID-19 Cases Prediction](HW01/hw1.ipynb)|`0.80332`|`0.84204`|`9`|
 |2|Classification|[Link](HW02/HW02.pdf)|[Phoneme Classification](HW02/hw2.ipynb)|`0.83261`|`0.83219`|`10`|
 |3|CNN|[Link](HW03/HW03.pdf)|[Image Classification](HW03/hw3_model1.ipynb)|`0.85466`|`0.85866`|`9`|
-|4|Self-Attention|[Link](HW04/HW04.pdf)|[Speaker Identification](HW04/hw4.ipynb)|`0.96050`|`0.96400`||
+|4|Self-Attention|[Link](HW04/HW04.pdf)|[Speaker Identification](HW04/hw4.ipynb)|`0.96050`|`0.96400`|`10`|
 |5|Transformer|[Link](HW05/HW05.pdf)|[Machine Translation](HW05/hw5.ipynb)|`30.28`|`29.69`|`9.5`|
 |6|Generative Model|[Link](HW06/HW06.pdf)|[Anime Face Generation Diffusion Model](HW06/hw6.ipynb)|`0.715,8103.67`|X|`10`|
 |7|BERT|[Link](HW07/HW07.pdf)|[BERT-Question Answering](HW07/hw7_1.ipynb)|`0.84279`|`0.84506`||
