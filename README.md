@@ -16,9 +16,9 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |7|BERT|[Link](HW07/HW07.pdf)|[BERT-Question Answering](HW07/hw7_1.ipynb)|`0.84279`|`0.84506`|`10`|
 |8|Auto-Encoder|[Link](HW08/HW08.pdf)|[Anomaly Detection](HW08/hw8.ipynb)|`0.83660`|`0.83877`||
 |9|Explainable AI|[Link](HW09/HW09.pdf)|[Explainable AI](HW09/hw9.ipynb)|X|X|`10`|
-|10|Attack|[Link](HW10/HW10.pdf)|[Adversarial Attack](HW10/hw10.ipynb)||||
-|11|Adaptation|[Link](HW11/HW11.pdf)|||||
-|12|Reinforcement Learning|[Link](HW12/HW12.pdf)|||||
-|13|Network Compression|[Link](HW13/HW13.pdf)|||||
+|10|Attack|[Link](HW10/HW10.pdf)|[Adversarial Attack](HW10/hw10.ipynb)|`0.07`|`0.10`||
+|11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/hw11.ipynb)|`0.82710`|`0.82892`||
+|12|Reinforcement Learning|[Link](HW12/HW12.pdf)|[Lunar Lander](HW12/hw12.ipynb)|`276`|X||
+|13|Network Compression|[Link](HW13/HW13.pdf)|[Food-11 Classification](HW13/hw13.ipynb)|`0.82687`|||
 |14|Life-Long Learning|[Link](HW14/HW14.pdf)|||||
 |15|Meta Learning|[Link](HW15/HW15.pdf)|||||
