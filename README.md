@@ -20,5 +20,5 @@ Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 |11|Adaptation|[Link](HW11/HW11.pdf)|[Domain Adaptation](HW11/hw11.ipynb)|`0.82710`|`0.82892`||
 |12|Reinforcement Learning|[Link](HW12/HW12.pdf)|[Lunar Lander](HW12/hw12.ipynb)|`276`|X||
 |13|Network Compression|[Link](HW13/HW13.pdf)|[Food-11 Classification](HW13/hw13.ipynb)|`0.82687`|||
-|14|Life-Long Learning|[Link](HW14/HW14.pdf)|||||
-|15|Meta Learning|[Link](HW15/HW15.pdf)|||||
+|14|Life-Long Learning|[Link](HW14/HW14.pdf)|[Regularization-based Lifelong Learning](HW14/hw14.ipynb)|X|X||
+|15|Meta Learning|[Link](HW15/HW15.pdf)|[Few-shot Classification](HW15/hw15.ipynb)|`0.96875`|||
