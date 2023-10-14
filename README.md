@@ -1,9 +1,11 @@
-# ml-spring2023
+# Machine Learning, 2023 Spring
 ![cover](mlcover.png)
 This is the assignments for the Machine Learning lecture by Hung-Yi Lee in National Taiwan University (NTU). Each folder contains .ipynb files and .py files.
 
-Course Syllabus : [Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+## Course Syllabus
+[Link](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 
+## Contents
 |#|Homework|Slide|Code|Public score|Private Score|Score|
 |-|-|:-:|-|:-:|:-:|:-:|
 |0|Colab Tutorial|[Link 1](HW00/Colab_Tutorial.pdf)<br>[Link 2](HW00/Pytorch_Tutorial_1_rev_1.pdf)<br>[Link 3](HW00/Pytorch_Tutorial_2.pdf)|[Colab Tutorial](HW00/Google_Colab_Tutorial_2023.ipynb)|X|X|X|
