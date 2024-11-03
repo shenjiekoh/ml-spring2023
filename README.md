@@ -24,3 +24,6 @@ This is the assignments for the Machine Learning lecture by Hung-Yi Lee in Natio
 |13|Network Compression|[Link](HW13/HW13.pdf)|[Food-11 Classification](HW13/hw13.ipynb)|`0.82687`|`0.81244`|`9.5`|
 |14|Life-Long Learning|[Link](HW14/HW14.pdf)|[Regularization-based Lifelong Learning](HW14/hw14.ipynb)|X|X|`9.4`|
 |15|Meta Learning|[Link](HW15/HW15.pdf)|[Few-shot Classification](HW15/hw15.ipynb)|`0.96875`|`0.94886`|`10`|
+
+> [!NOTE]
+> The solutions above are for reference only. Don't plagarize directly.
